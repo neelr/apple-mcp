@@ -21,7 +21,7 @@
     "apple-mcp": "./index.ts"
   },
   "scripts": {
-    "dev": "bun run index.ts"
+    "dev": "buns run index.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"
